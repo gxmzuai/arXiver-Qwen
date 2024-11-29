@@ -1,6 +1,6 @@
 Note: The complete code will be open-sourced after finishing the arrangement.
 
-[English Version](./README.md) · [Chinese Version](./README.zh-CN.md)
+[English](./README.md) · [中文](./README.zh-CN.md)
 
 ## Introduction
 

@@ -1,7 +1,7 @@
 
 注：代码整理完毕后完整开源。
 
-[英文版](./README.md) · [中文版本](./README.zh-CN.md)
+[English](./README.md) · [中文](./README.zh-CN.md)
 
 ## 介绍
 
