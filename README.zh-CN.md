@@ -9,5 +9,5 @@
 
 ## 更新
 
-- 2025.01.09，开源带category的arxiver数据集：https://huggingface.co/datasets/real-jiakai/arxiver-with-category
+- 2025.01.09，开源带category的arxiver数据集：[https://huggingface.co/datasets/real-jiakai/arxiver-with-category](https://huggingface.co/datasets/real-jiakai/arxiver-with-category)
 
