@@ -8,4 +8,4 @@ This project demonstrates the code for the short paper — "An arXiv Paper Quest
 
 ## Changelog
 
-2025.01.09, Released the Arxiver Dataset with category: https://huggingface.co/datasets/GXMZU/caexpo_news
+- 2025.01.09, Released the Arxiver Dataset with category: https://huggingface.co/datasets/GXMZU/caexpo_news
